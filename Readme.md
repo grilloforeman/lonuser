@@ -36,6 +36,9 @@ ServerAlias www.teste.local
 DocumentRoot /var/www/teste
 </VirtualHost>
 
+
+
+
 Then just place the eggs in this directory
 
 
