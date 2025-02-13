@@ -38,7 +38,7 @@ ServerAlias www.teste.local
 
 DocumentRoot /var/www/teste
 
-</VirtualHost>
+< /VirtualHost>
 
 
 
