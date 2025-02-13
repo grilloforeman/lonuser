@@ -57,3 +57,12 @@ Then just place the eggs in this directory
 -c create systems
 
 
+Usage is like this 
+
+lonuser.sy -t -d
+
+lonuser.sh start 
+
+To start ova
+
+
