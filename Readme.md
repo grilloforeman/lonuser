@@ -9,6 +9,7 @@ however, nothing more than a response with the aim of showing the incredible she
 Create the main file. Choose a directory.
 
 $cd seila
+
 $init
 
 
