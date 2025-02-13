@@ -49,7 +49,9 @@ Then just place the eggs in this directory
 ## lonuser
 
 -d you choose the eggs it pulls from the list.txt 
+
 -t download the eggs
+
 -c create systems
 
 
